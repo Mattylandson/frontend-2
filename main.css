@@ -1,0 +1,80 @@
+body {
+  background-color: rgb(241, 225, 228);
+  font-family: Outfit;
+  font-size: 87.5%;
+}
+
+.white-container{
+  background-color: white;
+  width: 610px;
+  margin: 0 auto;
+  padding: 28px 20px 30px 36px;
+  border-radius: 14px;
+  margin-bottom: 50px;
+}
+
+.img-recipe{
+  width: 580px;
+  border-radius: 14px;
+}
+
+h1{
+  color: rgb(53, 52, 52);
+  word-spacing: 2px;
+  font-family: YoungSerif;
+  font-weight: bold;
+}
+
+p {
+  color: grey;
+  
+}
+
+li, ul {
+  color: grey;
+  line-height: 2.0;
+
+}
+
+h4 {
+  color: rgb(114, 20, 114);
+}
+
+h2 {
+  color: rgb(119, 57, 57);
+  font-family: Youngserif;
+}
+
+.dv{
+  color: grey;
+  margin-bottom: 20px;
+}
+
+hr {
+  opacity:23% ;
+}
+
+strong {
+  color: rgb(88, 88, 88);
+  padding-left: 10px;
+}
+
+.Nutri-line{
+  padding-bottom: 18px;
+}
+
+span{
+  color: rgb(119, 57, 57);
+  font-weight: 900;
+  padding-left: 40px;
+}
+
+.Preparation-time{
+  background-color: #fcfcfc;
+  padding: 5px 5px 5px 14px ;
+  border-radius: 13px;
+}
+
+.dv{
+  padding-left: 50px;
+}
