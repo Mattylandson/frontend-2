@@ -78,3 +78,33 @@ span{
 .dv{
   padding-left: 50px;
 }
+
+@media screen and (max-width: 600px) {
+
+  body {
+    background-color:white;
+    font-family: Outfit;
+    font-size: 87.5%;
+    
+  }
+  
+  .img-recipe{
+   width: 400px;
+   border-radius: 8px;
+   object-position: top;
+
+  }
+
+  .white-container{
+    background-color: white;
+    max-width:400px;
+    margin: 0;
+    margin-right: 0;
+    padding-left: 30px;
+    padding-top: 1px;
+    border-radius: 0;
+    
+    
+  }
+  
+}
