@@ -27,6 +27,7 @@ h1{
 
 p {
   color: grey;
+  text-align: justify;
   
 }
 
@@ -85,13 +86,16 @@ span{
     background-color:white;
     font-family: Outfit;
     font-size: 87.5%;
+    padding-left: 0;
     
   }
   
+  
   .img-recipe{
-   width: 400px;
+   width: 465px;
    border-radius: 8px;
    object-position: top;
+   
 
   }
 
@@ -100,7 +104,8 @@ span{
     max-width:400px;
     margin: 0;
     margin-right: 0;
-    padding-left: 30px;
+    padding-left: 0;
+    padding-right: 70px;
     padding-top: 1px;
     border-radius: 0;
   }
